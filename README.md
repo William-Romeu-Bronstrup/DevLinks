@@ -19,8 +19,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
   Nesse sistema a conta já esta pré-definida no firebase, sendo uma aplicação mais privada.
 </p>
 
-<h1>Projeto hospedado no netlify </h1>
+<h2>Projeto hospedado no netlify </h2>
 
-<h4>
+<h2>
   <a href="https://devlinkreact.netlify.app/">DevLinks</a>
-</h4>
+</h2>
