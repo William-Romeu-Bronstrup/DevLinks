@@ -1,0 +1,47 @@
+.loginContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  width: 100%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+  max-width: 600px;
+
+  background: #232630;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.form label {
+  display: flex;
+  flex-direction: column;
+}
+
+.form label {
+  color: #FFF;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.form button {
+  height: 36px;
+  border-radius: 4px;
+  background-color: #3366FF;
+  border: 0;
+  font-size: 16px;
+  color: #FFF;
+  transition: .2s;
+}
+
+.form button:hover {
+  background-color: #3388FF;
+}

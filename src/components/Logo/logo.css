@@ -1,0 +1,22 @@
+.logo {
+  margin-top: 44px;
+  color: #FFF;
+  font-size: 54px;
+  letter-spacing: -2px;
+  transition: .2s;
+}
+
+.logoText {
+  background: linear-gradient(#E18700, #FFD43A);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.logoText {
+  font-size: 62px;
+}
+
+.logo:hover {
+  transform: scale(1.05);
+}

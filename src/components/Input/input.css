@@ -1,0 +1,12 @@
+.tagInput {
+  border: 0;
+  height: 36px;
+  margin-top: 10px;
+  margin-bottom: 14px;
+  border-radius: 4px;
+  padding: 0 8px;
+  outline: none;
+  color: #000;
+  font-weight: bold;
+  font-size: 15px;
+}

@@ -1,0 +1,42 @@
+
+.adminHeader {
+  width: 100%;
+  max-width: 720px;
+  margin-top: 14px;
+  padding: 0 14px;
+}
+
+.navHeader {
+  width: 100%;
+  background-color: #FFF;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.navHeader button {
+  border: 0;
+  background-color: transparent;
+  padding: 4px;
+  margin-right: 20px;
+  margin-left: 8px;
+  transition: background-color .2s;
+}
+
+.navHeader a {
+  margin-right: 14px;
+  color: #21242D;
+  transition: color .2s;
+}
+
+.navHeader button:hover {
+  background-color: #FFCDC7;
+  border-radius: 4px;
+
+}
+
+.navHeader a:hover {
+  color: #EDA617;
+}
