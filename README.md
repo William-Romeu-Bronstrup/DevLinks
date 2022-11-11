@@ -18,3 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   Este projeto consiste na exibição de links, onde apenas poderá cadastrar seus links quem estiver logado.    
   Nesse sistema a conta já esta pré-definida no firebase, sendo uma aplicação mais privada.
 </p>
+
+### Projeto hospedado no netlify
+
+<h2 href="https://devlinkreact.netlify.app/" >Projeto</h2>
