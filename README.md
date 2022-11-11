@@ -21,4 +21,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Projeto hospedado no netlify
 
-<h2 href="https://devlinkreact.netlify.app/" >Projeto</h2>
+<h3>
+  <a href="https://devlinkreact.netlify.app/">DevLinks</a>
+</h3>
